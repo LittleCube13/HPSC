@@ -1,13 +1,13 @@
-/Users/LittleCube/Earthboundhackjunkstuffscrud/HPSC.smc
+Z:/Users/LittleCube/Earthboundhackjunkstuffscrud/HPSC.smc
 CCScript Compilation Summary
 ============================
 
 
 Compilation statistics
 =================================================================
-Compilation start:           $f0a200
-Compilation end:             $f0a226
-Total compiled size:         38 bytes
+Compilation start:           $f10000
+Compilation end:             $f10029
+Total compiled size:         41 bytes
 Fragmented space:            0 bytes
 -----------------------------------------------------------------
 
@@ -16,10 +16,9 @@ Module information
 =================================================================
 Name                         Address     Size
 -----------------------------------------------------------------
-extended                     $f0a200      38     bytes
-nameskip                     $f0a226      0      bytes
-stdarg                       $f0a226      0      bytes
-std                          $f0a226      0      bytes
+extended                     $f10000      41     bytes
+stdarg                       $f10029      0      bytes
+std                          $f10029      0      bytes
 -----------------------------------------------------------------
 
 
@@ -29,13 +28,8 @@ Label locations
 Labels in module extended
 Name                         Address
 -----------------------------------------------------------------
-awesome                      $f0a200
------------------------------------------------------------------
-
-
-Labels in module nameskip
-Name                         Address
------------------------------------------------------------------
+nametest                     $f10000
+startup                      $f10026
 -----------------------------------------------------------------
 
 

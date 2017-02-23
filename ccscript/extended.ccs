@@ -1,4 +1,8 @@
-
-
-awesome:
+nametest:
 	"@DIE " name(1) ", you are a horrible person." end
+
+startup:
+	set(flag 517)
+
+newgame_location(8121, 1115)
+newgame_startup(startup)
