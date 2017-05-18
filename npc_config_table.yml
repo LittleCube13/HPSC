@@ -17,12 +17,12 @@
   Text Pointer 2: $0
   Type: person
 2:
-  Direction: right
-  Event Flag: 0x16d
-  Movement: 598
-  Show Sprite: when event flag unset
-  Sprite: 284
-  Text Pointer 1: $c74c8a
+  Direction: down
+  Event Flag: 0x0
+  Movement: 605
+  Show Sprite: always
+  Sprite: 48
+  Text Pointer 1: $0
   Text Pointer 2: $0
   Type: person
 3:
